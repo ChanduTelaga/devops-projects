@@ -1,3 +1,7 @@
 #Generated and test log files
 logs/*.log
 logs/*.logs
+
+
+#Generate backup archives
+backups/*.tar.gz
